@@ -11,13 +11,14 @@ Matkul    : Pemrograman Web
  Assalamualaikum, disini saya akan melaksanakan Praktikum 1 untuk mata kuliah <b>Pemrograman Web<b>.
  
 ## Langkah-langkah praktikum
-1. Pertama siapkan aplikasi Visual Code dan Browser [Disini saya menggunakan <b>Microsoft Edge<b>]
-![p](pictures/vscedge.PNG)
+1. Pertama siapkan aplikasi Visual Code dan Browser [Disini saya menggunakan <b>Microsoft Edge<b>] <br>
+<img src="pictures/vscedge.PNG">
 <br>
 Langkah berikutnya kita buat file baru dengan nama <b>lab1_tag_latihandasar<b>, jangan lupa tipe file nya diubah menjadi tipe <b>html</b>
 <br>
 Selanjutnya buka file yang telah kita simpan dalam format HTML tadi di browser, disini saya menggunakan browser <i>Microsoft Edge</i>
-![p](pictures/foto1.PNG)
+<img src="pictures/foto1.PNG">
+<br>
 
 
 ## Jawab Pertanyaan Berikut
